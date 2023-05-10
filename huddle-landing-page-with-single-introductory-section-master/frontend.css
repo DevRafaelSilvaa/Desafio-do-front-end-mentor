@@ -1,0 +1,54 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+    background-image: url(images/bg-desktop.svg);
+}
+
+.logo__fundo{
+    background-image: url(images/bg-desktop.svg);
+}
+
+.imagem{
+    width: 600px;
+    height: 620px;
+    margin-left: 90px;
+}
+
+.Huddle{
+    margin-top: 180px;
+    margin-left: 190px;
+}
+
+.card__geral{
+    display: flex;
+    gap: 98px;
+    background-color: blueviolet;
+}
+
+.card__text{
+    margin-top: 30%;
+    list-style: none;
+    width: 390px;
+}
+
+.text__1{
+    color: aliceblue;
+    font-size: 39px;
+    margin-bottom: 30px;
+}
+
+.text__2{
+    margin: 30px 0px;
+    color: rgb(65, 63, 63);
+}
+
+.btn{
+    background-color: rgb(255, 255, 255);
+    color: rgb(144, 0, 255);
+    padding: 15px 40px;
+    text-decoration: none;
+    border-radius: 20px;
+}
